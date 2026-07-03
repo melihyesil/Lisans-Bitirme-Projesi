@@ -1,6 +1,6 @@
 # Lisans-Bitirme-Projesi
 
-# 🌊 Deniz Yosunu (Posidonia oceanica) Ekosistemi Dinamiklerinin Hücresel Otomata ve Nöron Modeli ile Simülasyonu
+## 🌊 Deniz Yosunu (Posidonia oceanica) Ekosistemi Dinamiklerinin Hücresel Otomata ve Nöron Modeli ile Simülasyonu
 
 Bu proje, Dokuz Eylül Üniversitesi Bilgisayar Bilimleri Bölümü lisans bitirme projesi kapsamında geliştirilmiştir.
 

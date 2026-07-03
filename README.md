@@ -99,9 +99,3 @@ alanlarına katkı sağlamayı amaçlamaktadır.
 **Danışman**
 
 Prof. Dr. Murat Erşen BERBERLER
-
----
-
-# 📄 Lisans
-
-Bu proje, Dokuz Eylül Üniversitesi Bilgisayar Bilimleri Bölümü kapsamında hazırlanmış lisans bitirme projesidir.

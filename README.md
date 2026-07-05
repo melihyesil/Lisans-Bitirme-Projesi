@@ -10,7 +10,7 @@ Projede, Akdeniz ve Ege Denizi ekosistemleri için kritik öneme sahip olan **Po
 
 ### 📖 Proje Amacı
 
-Projenin amacı, deniz çayırlarının sıcaklık, tuzluluk, çözünmüş oksijen ve derinlik gibi çevresel değişkenlere verdiği tepkileri bilgisayar ortamında modellemek ve farklı senaryolar altında popülasyon dinamiklerini gözlemlemektir.
+Projenin amacı, deniz çayırlarının sıcaklık, tuzluluk, oksijen ve derinlik gibi çevresel değişkenlere verdiği tepkileri bilgisayar ortamında modellemek ve farklı senaryolar altında popülasyon dinamiklerini gözlemlemektir.
 
 Bu sayede iklim değişikliği ve çevresel stres faktörlerinin deniz ekosistemi üzerindeki etkileri analiz edilebilmektedir.
 

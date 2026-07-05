@@ -1,4 +1,4 @@
-# Deniz Yosunu (Posidonia oceanica) Ekosistemi Dinamiklerinin Hücresel Otomata ve Nöron Modeli ile Simülasyonu
+# Lisans-Bitirme-Projesi
 
 ### 🌊 Deniz Yosunu (Posidonia oceanica) Ekosistemi Dinamiklerinin Hücresel Otomata ve Nöron Modeli ile Simülasyonu
 

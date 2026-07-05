@@ -21,7 +21,6 @@ Bu sayede iklim değişikliği ve çevresel stres faktörlerinin deniz ekosistem
 - NetLogo
 - Hücresel Otomata (Cellular Automata)
 - Yapay Nöron Modeli
-- Ajan Tabanlı Modelleme (Agent-Based Modeling)
 
 ---
 

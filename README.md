@@ -86,8 +86,7 @@ Bu çalışma;
 - Deniz ekosistemlerinin modellenmesi,
 - İklim değişikliğinin etkilerinin analiz edilmesi,
 - Eğitim ve araştırma amaçlı simülasyon geliştirilmesi,
-- Ekolojik risk analizleri,
-- Yapay zekâ destekli ekosistem modelleme
+- Ekolojik risk analizleri
 
 alanlarına katkı sağlamayı amaçlamaktadır.
 

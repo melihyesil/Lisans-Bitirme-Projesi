@@ -27,14 +27,17 @@ Bu sayede iklim değişikliği ve çevresel stres faktörlerinin deniz ekosistem
 
 ### ⚙️ Simülasyonda Kullanılan Çevresel Parametreler
 
-Kullanıcı aşağıdaki değişkenleri değiştirebilir:
+Kullanıcı aşağıdaki çevresel değişkenleri değiştirebilir:
 
-- 🌡️ Sıcaklık
-- 🧂 Tuzluluk
-- 🌊 Derinlik
-- 🫧 Çözünmüş Oksijen
+- 🌡️ Sıcaklık (Temperature)
+- 🧂 Tuzluluk (Salinity)
+- 🫧 Oksijen (Dissolved Oxygen)
+- 🌊 Derinlik (Depth)
+- 🌿 Besin (Nutrient Availability)
+- 🍂 Organik Madde (Organic Matter)
+- ⚗️ NH₄⁺ (Amonyum / Ammonium)
 
-Bu parametreler doğrudan deniz yosunlarının yaşam gücünü ve yayılımını etkilemektedir.
+Bu parametreler, Posidonia oceanica'nın yaşam gücünü, büyümesini, yayılımını ve çevresel strese karşı verdiği tepkileri doğrudan etkilemektedir.
 
 ---
 

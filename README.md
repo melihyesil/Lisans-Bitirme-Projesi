@@ -29,13 +29,13 @@ Bu sayede iklim değişikliği ve çevresel stres faktörlerinin deniz ekosistem
 
 Kullanıcı aşağıdaki çevresel değişkenleri değiştirebilir:
 
-- 🌡️ Sıcaklık (Temperature)
-- 🧂 Tuzluluk (Salinity)
-- 🫧 Oksijen (Dissolved Oxygen)
-- 🌊 Derinlik (Depth)
-- 🌿 Besin (Nutrient Availability)
-- 🍂 Organik Madde (Organic Matter)
-- ⚗️ NH₄⁺ (Amonyum / Ammonium)
+-  Sıcaklık (Temperature)
+-  Tuzluluk (Salinity)
+-  Oksijen (Dissolved Oxygen)
+-  Derinlik (Depth)
+-  Besin (Nutrient Availability)
+-  Organik Madde (Organic Matter)
+-  NH₄⁺ (Amonyum / Ammonium)
 
 Bu parametreler, Posidonia oceanica'nın yaşam gücünü, büyümesini, yayılımını ve çevresel strese karşı verdiği tepkileri doğrudan etkilemektedir.
 

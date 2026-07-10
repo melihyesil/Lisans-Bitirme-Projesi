@@ -100,8 +100,9 @@ alanlarına katkı sağlamayı amaçlamaktadır.
 **Danışman**
 
 Prof. Dr. Murat Erşen BERBERLER
-‎ 
-‎ 
-‎ 
-‎ 
+
+
+
+
+
 Bu projeyi geliştirmeye devam etmeyi hedefliyoruz. Yeni özellikler ve farklı ekolojik senaryolar ekleyerek simülasyonu daha kapsamlı hale getirmeyi planlıyor, her türlü geri bildirim ve katkıyı memnuniyetle karşılıyoruz.
